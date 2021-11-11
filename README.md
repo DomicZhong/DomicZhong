@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Badge](https://img.shields.io/github/followers/DomicZhong?style=social)](https://github.com/DomicZhong?tab=followers)
-
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/domic)
 
 ---
