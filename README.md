@@ -56,8 +56,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23318FF7&size=26&center=true&multiline=true&lines=I%E2%80%99m+currently+working+on;GIS+%26+Urban+Informatics" width="400" height="80"></a>
 </p>
 
----
-
 <table align="center" width="100%" >
   <tr>
     <td align="center">
