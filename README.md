@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <table align="center" width="100%" >
   <tr>
     <td align="center">
-    <div style="color: #e7e7e7; font-weight: bold; font-size: 20px">
+    <div style="color: #e7e7e7; font-weight: bold; font-size: 40px">
       My Statistics
     </div>
     </td>
