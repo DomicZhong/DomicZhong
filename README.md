@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, It's my Github portfolio👋
 
 <!--
 **DomicZhong/DomicZhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,10 +58,12 @@ Here are some ideas to get you started:
 
 ---
 
-<table align="center" width="100%">
+<table align="center" width="100%" >
   <tr>
     <td align="center">
-    My Statistics
+    <div style="color: #e7e7e7; font-weight: bold; font-size: 20px">
+      My Statistics
+    </div>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=DomicZhong&count_private=true&show_icons=true&theme=radical&layout=compact&title_color=007bff&text_color=&icon_color=&bg_color=" >
@@ -78,7 +80,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=DomicZhong&show_icons=true&theme=radical&layout=compact&title_color=007bff&text_color=&icon_color=&bg_color=" >
+  <img src="https://github-readme-stats.vercel.app/api?username=DomicZhong&show_icons=true&theme=radical&layout=compact&&&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" >
 </p>
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomicZhong&langs_count=3&hide=c,go,html,css,tex&theme=radical">
