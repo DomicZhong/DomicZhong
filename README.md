@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://cultofthepartyparrot.com/parrots/hd/astronautparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/boomparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/covid19parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/maskparrot.gif" width="25" height="25"/>
 </div>
 
