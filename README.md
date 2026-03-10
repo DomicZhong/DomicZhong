@@ -61,9 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  ✨ My GitHub Stats ✨
-  </br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomicZhong&theme=radical">
-
 </p>
 
 <!-- <p align="center" width="100%">
