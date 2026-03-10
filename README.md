@@ -72,15 +72,7 @@ Here are some ideas to get you started:
       My Statistics
     </div>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DomicZhong&count_private=true&show_icons=true&theme=radical&layout=compact&title_color=007bff&text_color=&icon_color=&bg_color=" >
-    </td>
-  </tr>
-   <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomicZhong&langs_count=5&hide=go,html,css,tex&theme=radical&layout=compact">
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomicZhong&theme=radical">
       </td>
   </tr>
