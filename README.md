@@ -62,21 +62,15 @@ Here are some ideas to get you started:
 <p align="center">
   ✨ 🔭 :octocat: 🔭 ✨
   </br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23318FF7&size=26&center=true&multiline=true&lines=I%E2%80%99m+currently+working+on;GIS+%26+Urban+Informatics" width="400" height="80"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=288BF7&background=6DD5FF00&center=true&multiline=true&width=435&height=80&lines=I%E2%80%99m+currently+working+on;Cloud+%2B+GIS+%2B+Urban+Informatics" alt="Typing SVG" /></a>
 </p>
 
-<table align="center" width="100%" >
-  <tr>
-    <td align="center">
-    <div style="color: #e7e7e7; font-weight: bold; font-size: 40px">
-      My Statistics
-    </div>
-    </td>
-     <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomicZhong&theme=radical">
-      </td>
-  </tr>
-</table>
+<p align="center">
+ ✨ My GitHub Stats ✨
+  </br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomicZhong&theme=radical">
+
+</p>
 
 <!-- <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=DomicZhong&show_icons=true&theme=radical&layout=compact&&&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" >
