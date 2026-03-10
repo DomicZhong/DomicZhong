@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 [![GitHub Badge](https://img.shields.io/github/followers/DomicZhong?style=social)](https://github.com/DomicZhong?tab=followers)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/domic)
 
-[![Domic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomicZhong)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DomicZhong)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomicZhong)
-
 ---
 
 <div align="center">
