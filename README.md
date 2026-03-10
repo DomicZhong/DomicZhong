@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">✨ 🔭 :octocat: 🔭 ✨</br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=288BF7&background=6DD5FF00&center=true&multiline=true&width=435&height=80&lines=I%E2%80%99m+currently+working+on;Cloud+%2B+GIS+%2B+Urban+Informatics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=288BF7&background=6DD5FF00&center=true&multiline=true&width=435&height=50&lines=I%E2%80%99m+currently+working+on;Cloud+%2B+GIS+%2B+Urban+Informatics" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">✨ My GitHub Stats ✨</br>
